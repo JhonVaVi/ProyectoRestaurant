@@ -1,0 +1,39 @@
+ba2ad790f2f5541757e75d7f63a512149dc90da4
+
+en ese archivo se encuentra el todo lo relacionadoa a adminlte que se necesite modificar para mejorar el proyectov
+se encuentrac en la carpeta de storage/views/ba2ad790f2f5541757e75d7f63a512149dc90da4.php
+
+
+/*
+----esto no es nada pa ti pero es para mi----
+git status
+git add .
+git commit -m "mensaje"
+git push -u origin main
+
+*/
+
+
+Cómo clonar un repositorio Laravel desde GitHub
+https://www.youtube.com/watch?v=EdZ0hQtrfEU
+
+
+https://www.youtube.com/watch?v=kw72-dm7yNI
+
+modulo de
+ contabilidad,
+ facturacion,
+ inventario,
+ compras,
+ ventas,
+ clientes,
+ proveedores,
+ productos,
+ categorias,
+ subcategorias,
+ usuarios,
+ roles,
+ permisos,
+ reportes,
+ graficas,
+ etc
